@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/shaders-uniform.dir/__/__/src/glad.c.o" "CMakeFiles/shaders-uniform.dir/shaders/uniform.cpp.o" -o shaders-uniform  -lglfw -lGL -lX11 -lpthread -lXrandr -lXi -ldl

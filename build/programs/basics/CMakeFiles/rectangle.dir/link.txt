@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/rectangle.dir/__/__/src/glad.c.o CMakeFiles/rectangle.dir/rectangle/main.cpp.o -o rectangle  -lglfw -lGL -lX11 -lpthread -lXrandr -lXi -ldl

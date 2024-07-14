@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/shaders-mixed.dir/__/__/src/glad.c.o" "CMakeFiles/shaders-mixed.dir/shaders/mixed.cpp.o" -o shaders-mixed  -lglfw -lGL -lX11 -lpthread -lXrandr -lXi -ldl

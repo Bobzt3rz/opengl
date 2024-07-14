@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/textures-mixed-exercise.dir/__/__/src/glad.c.o" "CMakeFiles/textures-mixed-exercise.dir/textures/mixed-exercise.cpp.o" -o textures-mixed-exercise  -lglfw -lGL -lX11 -lpthread -lXrandr -lXi -ldl

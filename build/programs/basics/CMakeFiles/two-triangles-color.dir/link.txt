@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/two-triangles-color.dir/__/__/src/glad.c.o" "CMakeFiles/two-triangles-color.dir/triangle/two-color.cpp.o" -o two-triangles-color  -lglfw -lGL -lX11 -lpthread -lXrandr -lXi -ldl

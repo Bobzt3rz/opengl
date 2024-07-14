@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/two-triangles.dir/__/__/src/glad.c.o" "CMakeFiles/two-triangles.dir/triangle/two.cpp.o" -o two-triangles  -lglfw -lGL -lX11 -lpthread -lXrandr -lXi -ldl

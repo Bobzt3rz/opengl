@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/textures-mixed.dir/__/__/src/glad.c.o" "CMakeFiles/textures-mixed.dir/textures/mixed.cpp.o" -o textures-mixed  -lglfw -lGL -lX11 -lpthread -lXrandr -lXi -ldl

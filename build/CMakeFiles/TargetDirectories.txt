@@ -1,0 +1,13 @@
+/home/palad1nz0/programming/opengl/build/CMakeFiles/edit_cache.dir
+/home/palad1nz0/programming/opengl/build/CMakeFiles/rebuild_cache.dir
+/home/palad1nz0/programming/opengl/build/programs/basics/CMakeFiles/one-triangle.dir
+/home/palad1nz0/programming/opengl/build/programs/basics/CMakeFiles/two-triangles.dir
+/home/palad1nz0/programming/opengl/build/programs/basics/CMakeFiles/two-triangles-color.dir
+/home/palad1nz0/programming/opengl/build/programs/basics/CMakeFiles/rectangle.dir
+/home/palad1nz0/programming/opengl/build/programs/basics/CMakeFiles/shaders-uniform.dir
+/home/palad1nz0/programming/opengl/build/programs/basics/CMakeFiles/shaders-mixed.dir
+/home/palad1nz0/programming/opengl/build/programs/basics/CMakeFiles/textures-container.dir
+/home/palad1nz0/programming/opengl/build/programs/basics/CMakeFiles/textures-mixed.dir
+/home/palad1nz0/programming/opengl/build/programs/basics/CMakeFiles/textures-mixed-exercise.dir
+/home/palad1nz0/programming/opengl/build/programs/basics/CMakeFiles/edit_cache.dir
+/home/palad1nz0/programming/opengl/build/programs/basics/CMakeFiles/rebuild_cache.dir

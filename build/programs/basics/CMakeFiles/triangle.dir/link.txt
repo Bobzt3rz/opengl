@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/triangle.dir/__/__/src/glad.c.o CMakeFiles/triangle.dir/triangle/main.cpp.o  -o triangle  -lglfw -lGL -lX11 -lpthread -lXrandr -lXi -ldl 

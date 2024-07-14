@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/textures-container.dir/__/__/src/glad.c.o" "CMakeFiles/textures-container.dir/textures/container.cpp.o" -o textures-container  -lglfw -lGL -lX11 -lpthread -lXrandr -lXi -ldl
